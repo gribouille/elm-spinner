@@ -3,6 +3,15 @@
 ELM Spinner component.
 
 
+## Example
+
+```elm
+view : Html msg
+view =
+    Spinner.view
+```
+
+
 ## Development
 
 Execute the example:
