@@ -1,9 +1,20 @@
 module Spinner exposing (view)
 
+{-| Spinner component.
+
+
+# View
+
+@docs view
+
+-}
+
 import Html exposing (Html, div, section, span)
 import Html.Attributes exposing (class)
 
 
+{-| Spinner view.
+-}
 view : Html msg
 view =
     section [ class "spinner" ]
