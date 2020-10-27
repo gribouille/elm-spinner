@@ -1,0 +1,29 @@
+{
+  "name": "elm-spinner",
+  "version": "1.0.0",
+  "description": "ELM Spinner component",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gribouille/elm-spinner.git"
+  },
+  "keywords": [
+    "elm",
+    "component",
+    "spinner",
+    "javascript",
+    "css"
+  ],
+  "author": "Gribouille <gribouille.git@gmail.com>",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/gribouille/elm-spinner/issues"
+  },
+  "homepage": "https://github.com/gribouille/elm-spinner#readme"
+}
